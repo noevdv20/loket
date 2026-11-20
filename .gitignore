@@ -1,0 +1,29 @@
+# Executable Binaries (Go)
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+bin/
+dist/
+
+# Test binary, coverage, and profiler
+*.test
+*.out
+c.out
+coverage.html
+
+# Go workspace & vendor
+vendor/
+go.work
+
+# OS Generated Files
+.DS_Store
+Thumbs.db
+
+# IDE and Editor Files
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
